@@ -1,5 +1,7 @@
 # Formulatte ☕
 
+![Formulatte Banner](design/banner.png)
+
 A modern, type-safe form management library for Svelte 5+.
 
 [![npm version](https://badge.fury.io/js/formulatte.svg)](https://badge.fury.io/js/formulatte)
